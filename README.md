@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá, eu sou a Alice!
 
-<!--
-**alicedocarmo3/alicedocarmo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Sobre mim
 
-Here are some ideas to get you started:
+📌 Tenho 15 anos e sou estudante do curso técnico de Informática no Colégio Augustos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Moro em Sabará - MG.
+
+🌱 Atualmente, estou aprendendo HTML e CSS.
+
+🚀 Tecnologias
+
+Atualmente, estou focada em:
+
+HTML
+
+CSS
+
+📫 Contato
+
+Se quiser trocar uma ideia ou acompanhar meu aprendizado, fique à vontade para me chamar por aqui! 😃
+
